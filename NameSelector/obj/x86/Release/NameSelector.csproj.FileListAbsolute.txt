@@ -1,0 +1,11 @@
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\bin\Release\NameSelector.exe
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\bin\Release\NameSelector.pdb
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Release\MainWindow.baml
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Release\MainWindow.g.cs
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Release\App.g.cs
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Release\NameSelector_MarkupCompile.cache
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Release\NameSelector.g.resources
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Release\NameSelector.Properties.Resources.resources
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Release\NameSelector.csproj.GenerateResource.Cache
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Release\NameSelector.exe
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Release\NameSelector.pdb

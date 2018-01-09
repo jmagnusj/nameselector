@@ -1,0 +1,26 @@
+﻿<Window x:Class="NameSelector.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="NameSelector v. 1.03" Height="350" Width="425">
+    <Grid>
+        <Label Content="Number of names to show:" Height="28" HorizontalAlignment="Left" Margin="23,21,0,0" Name="label1" VerticalAlignment="Top" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="182,26,0,0" Name="numberOfNamesComboBox" VerticalAlignment="Top" Width="38" SelectedIndex="0">
+            <ComboBoxItem Content="1" />
+            <ComboBoxItem Content="2" />
+            <ComboBoxItem Content="3" />
+        </ComboBox>
+        <Button Content="Show name(s)" Height="23" Margin="290,84,0,0" Name="showNamesButton" VerticalAlignment="Top" Click="ShowNamesButton_Click" HorizontalAlignment="Left" Width="98" />
+        <TextBox Height="143" HorizontalAlignment="Left" Margin="23,118,0,0" Name="showNamesTextBox" VerticalAlignment="Top" Width="365" />
+        <Button Content="Clear" Height="23" HorizontalAlignment="Left" Margin="23,267,0,0" Name="clearButton" VerticalAlignment="Top" Width="75" Click="ClearButton_Click" />
+        <Button Content="Exit" Height="23" HorizontalAlignment="Left" Margin="313,267,0,0" Name="exitButton" VerticalAlignment="Top" Width="75" Click="ExitButton_Click" />
+        <Label Content="Gender:" Height="28" HorizontalAlignment="Left" Margin="23,50,0,0" Name="label2" VerticalAlignment="Top" Width="153" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="182,55,0,0" Name="genderComboBox" VerticalAlignment="Top" Width="93" SelectedIndex="0">
+            <ComboBoxItem Content="Both" />
+            <ComboBoxItem Content="Female only" />
+            <ComboBoxItem Content="Male only" />
+        </ComboBox>
+        <Label Content="Year:" Height="28" HorizontalAlignment="Left" Margin="23,79,0,0" Name="label3" VerticalAlignment="Top" Width="153" />
+        <ComboBox Height="23" HorizontalAlignment="Left" Margin="182,84,0,0" Name="yearComboBox" VerticalAlignment="Top" Width="93" SelectedIndex="0">
+        </ComboBox>
+    </Grid>
+</Window>

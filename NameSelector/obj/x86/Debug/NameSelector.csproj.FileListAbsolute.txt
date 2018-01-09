@@ -1,0 +1,27 @@
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\bin\Debug\NameSelector.exe
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\bin\Debug\NameSelector.pdb
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Debug\MainWindow.baml
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Debug\MainWindow.g.cs
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Debug\App.g.cs
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Debug\NameSelector_MarkupCompile.cache
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Debug\NameSelector.g.resources
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Debug\NameSelector.Properties.Resources.resources
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Debug\NameSelector.csproj.GenerateResource.Cache
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Debug\NameSelector.exe
+C:\M\Dev\C# Projects\NameSelector\NameSelector\NameSelector\obj\x86\Debug\NameSelector.pdb
+C:\M\Dev\C# Projects\NameSelector\v 1.021\NameSelector\NameSelector\obj\x86\Debug\NameSelector.exe
+C:\M\Dev\C# Projects\NameSelector\v 1.021\NameSelector\NameSelector\obj\x86\Debug\NameSelector.pdb
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\bin\Debug\NameSelector.exe
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\bin\Debug\NameSelector.pdb
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector.csprojResolveAssemblyReference.cache
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\MainWindow.baml
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\MainWindow.g.cs
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\App.g.cs
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector_MarkupCompile.cache
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector.g.resources
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector.Properties.Resources.resources
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector.csproj.GenerateResource.Cache
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector.csproj.CoreCompileInputs.cache
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector.exe
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector.pdb
+C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\bin\Debug\NameSelector.exe.config
