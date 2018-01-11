@@ -25,3 +25,17 @@ C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x8
 C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector.exe
 C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\obj\x86\Debug\NameSelector.pdb
 C:\M\Dev\C# Projects\NameSelector\NameSelector2\NameSelector\NameSelector\bin\Debug\NameSelector.exe.config
+C:\Users\M\Source\Repos\nameselector\NameSelector\bin\Debug\NameSelector.exe.config
+C:\Users\M\Source\Repos\nameselector\NameSelector\bin\Debug\NameSelector.exe
+C:\Users\M\Source\Repos\nameselector\NameSelector\bin\Debug\NameSelector.pdb
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\NameSelector.csprojResolveAssemblyReference.cache
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\MainWindow.baml
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\MainWindow.g.cs
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\App.g.cs
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\NameSelector_MarkupCompile.cache
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\NameSelector.g.resources
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\NameSelector.Properties.Resources.resources
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\NameSelector.csproj.GenerateResource.Cache
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\NameSelector.csproj.CoreCompileInputs.cache
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\NameSelector.exe
+C:\Users\M\Source\Repos\nameselector\NameSelector\obj\x86\Debug\NameSelector.pdb
