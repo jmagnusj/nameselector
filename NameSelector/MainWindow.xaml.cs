@@ -28,6 +28,8 @@ namespace NameSelector
         private void LoadDefaultSettingsFromConfigurationFile()
         {
             XMLFileLocationString = ConfigurationManager.AppSettings.Get("DefaultXMLLocation");
+
+            //Added some trivial changes.
         }
 
         /*
